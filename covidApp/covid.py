@@ -1,3 +1,4 @@
+# Covid19 verilerinin yer aldığı basit yapıdaki uygulama
 import matplotlib.pyplot as plt
 from matplotlib import gridspec
 from matplotlib.figure import Figure
